@@ -828,8 +828,7 @@ window.__require = function e(t, n, i) {
 				this.scene = t,
 				console.log("\u51c6\u5907\u8c03\u8d77\u89c6\u9891\u5e7f\u544a", cc.sys.platform),
 				GmEvent.dispatcher("watchType", i.watchType),
-				console.log("RW succ"),
-				MusicManger.playBmg()
+				console.log("RW succ"),				
 				/*MusicManger.stopBmg(), "gb" == window.pf ?
 				window.gamebridge.showReward(function () {
 				GmEvent.dispatcher("watchType", i.watchType),
