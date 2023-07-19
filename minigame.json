@@ -2,7 +2,7 @@
   "platform": "minigame",
   "sdk": "minigame-sdk.js",
   "instance": "FBInstant",
-  "gameName": "battle-cars",
+  "gameName": "galaxyShooter",
   "features": {
     "ads": {
       "enabled": true,
