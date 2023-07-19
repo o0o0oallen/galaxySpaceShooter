@@ -1,0 +1,1 @@
+window._CCSettings={platform:"fb-instant-games",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/main.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"803f8",resources:"4fde6",main:"3b647"}};
